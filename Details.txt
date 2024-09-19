@@ -1,0 +1,19 @@
+Components needed are:
+An arduino and its adapter
+Few jumper Wires
+A fire sensor
+A led
+A breadboard
+A buzzer
+A lighter
+ 
+The steps to setup hardware connections are listed below:
+
+Connect "VCC" pin of the sensor to 5V pin on the arduino.
+Connect "GND" ground pin to GND pin on the arduino.
+Connect "AO" analog output pin to any analog or digital pins on the arduino.In this tutorial I connected it with A2
+Connect longer LED leg to pin 13 on the arduino. If you want to use anyother pin on the arduino, you need to use a 220 ohm resistor.
+Connect shorter LED leg to GND pin on the arduino.
+FIx buzzer on the breadboard.
+Connect longer buzzer leg to pin 11(or any other pin) on the arduino.
+Connect shorter buzzer leg to GND pin on the arduino.
